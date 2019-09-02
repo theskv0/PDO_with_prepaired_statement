@@ -1,0 +1,3 @@
+# PDO_with_prepaired_statement
+
+Basic concept of PDO with prepaired statements...
